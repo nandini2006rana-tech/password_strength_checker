@@ -81,6 +81,6 @@ while True:
 
         elif 0<len(b)<8:
             print('Your password contains less than 8 characters')
-            print('Please re-enter your password again')
+            print('Please re-enter your password again!')
             print('')
             continue
